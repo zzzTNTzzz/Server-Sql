@@ -1,0 +1,2 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["HMMWV_Armored",2]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 562, 'trade_any_vehicle');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["HMMWV_Armored",2]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 569, 'trade_any_vehicle');

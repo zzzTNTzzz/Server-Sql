@@ -1,0 +1,1 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["ItemKiloHemp",1]', 10, '[4,"ItemGoldBar",1]', '[3,"ItemGoldBar",1]', 815);

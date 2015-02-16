@@ -1,0 +1,1 @@
+UPDATE traders_data SET qty = 10 WHERE qty = 999;

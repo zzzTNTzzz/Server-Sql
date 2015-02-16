@@ -1,0 +1,1 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["AK_107_PSO",3]', 10, '[6,"ItemGoldBar",1]', '[3,"ItemGoldBar",1]', 526, 'trade_weapons');

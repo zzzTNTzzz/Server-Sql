@@ -1,0 +1,39 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanGriff",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBadguy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBoneboy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCorn",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCurgon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanDemon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanFraggleos",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanHerpy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanOrlok",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanPowell",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanTylers",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanUnlabeled",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 579);
+
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanGriff",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBadguy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBoneboy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCorn",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCurgon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanDemon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanFraggleos",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanHerpy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanOrlok",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanPowell",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanTylers",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanUnlabeled",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 629);
+
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanGriff",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBadguy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanBoneboy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCorn",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanCurgon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanDemon",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanFraggleos",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanHerpy",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanOrlok",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanPowell",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanTylers",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`) VALUES ('["FoodCanUnlabeled",1]', 999, '[2,"ItemGoldBar",1]', '[1,"ItemGoldBar",1]', 635);
+

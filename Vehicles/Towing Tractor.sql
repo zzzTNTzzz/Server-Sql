@@ -1,0 +1,4 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["TowingTractor",2]', 20, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 608, 'trade_any_vehicle');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["TowingTractor",2]', 20, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 587, 'trade_any_vehicle');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["TowingTractor",2]', 20, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 536, 'trade_any_vehicle');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["TowingTractor",2]', 20, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 650, 'trade_any_vehicle');

@@ -1,0 +1,10 @@
+UPDATE traders_data SET qty = 10 WHERE qty = 0;
+UPDATE traders_data SET qty = 10 WHERE qty = 1;
+UPDATE traders_data SET qty = 10 WHERE qty = 2;
+UPDATE traders_data SET qty = 10 WHERE qty = 3;
+UPDATE traders_data SET qty = 10 WHERE qty = 4;
+UPDATE traders_data SET qty = 10 WHERE qty = 5;
+UPDATE traders_data SET qty = 10 WHERE qty = 6;
+UPDATE traders_data SET qty = 10 WHERE qty = 7;
+UPDATE traders_data SET qty = 10 WHERE qty = 8;
+UPDATE traders_data SET qty = 10 WHERE qty = 9;

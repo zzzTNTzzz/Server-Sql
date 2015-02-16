@@ -1,0 +1,7 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_SR25",3]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_M110",3]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_HK417s",3]', 10, '[6,"ItemGoldBar10oz",1]', '[3,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_SR25SD",3]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_M110sd",3]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_M21G",3]', 10, '[8,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["vil_M14G",3]', 10, '[7,"ItemGoldBar10oz",1]', '[4,"ItemGoldBar10oz",1]', 812, 'trade_weapons');
