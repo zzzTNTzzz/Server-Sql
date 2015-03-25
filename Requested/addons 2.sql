@@ -1,0 +1,3 @@
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["m8_carbineGL",3]', 999, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 526, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["m110_nvg_EP1",3]', 999, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 526, 'trade_weapons');
+INSERT INTO `traders_data` (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["AA12_PMC",3]', 999, '[3,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 526, 'trade_weapons');
